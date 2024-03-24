@@ -2,25 +2,17 @@
     {
       "title": "SnapHealth",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "An Android Health App for personalized health advice.",
+      "skills": ["Kotlin", "Android", "JavaScript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/andynguyen4267/SnapHealth"
     },
     {
       "title": "Portfolio Website",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "A portfolio website utilizing React, CSS, and Node.js.",
       "skills": ["React", "CSS", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/andynguyen4267/React-Portfolio-Website"
     }
   ]

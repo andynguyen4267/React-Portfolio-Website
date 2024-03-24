@@ -5,7 +5,7 @@
       "startDate": "Jan, 2024",
       "endDate": "Present",
       "experiences": ["Created an interactive chatbot", "Increased accuracy by 50%"],
-      "imageSrc": "history/google.png"
+      "imageSrc": "history/partneresi.png"
     },
     {
       "role": "Coding Instructor/Mentor",
@@ -13,6 +13,6 @@
       "startDate": "Aug, 2023",
       "endDate": "Dec, 2023",
       "experiences": ["Taught students how to code", "Led a group to create a project"],
-      "imageSrc": "history/microsoft.png"
+      "imageSrc": "history/dreamsforschools.png"
     }
   ]
